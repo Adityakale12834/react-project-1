@@ -81,8 +81,8 @@ function Navbar() :React.ReactElement {
               <img
               className="navbar-toggler"
                 style={{ width: "200px", border:"none" }}
-                src="/src/assets/logo.png"
-                alt=""
+                src="logo.png"
+                alt="this is logo"
               />
             </div>
             <button
@@ -156,7 +156,7 @@ function Navbar() :React.ReactElement {
               <img
                 className=""
                 style={{ width: "250px" }}
-                src="/src/assets/logo.png"
+                src="logo.png"
                 alt=""
               />
             </div>

@@ -21,9 +21,9 @@ function Testimonials(): React.ReactElement {
               and I highly recommend it.</small>
             </p>
             <div className='d-flex mt-5 align-items-center'>
-              <img src="/src/assets/audio.png" alt="" className='overflow-hidden' style={{width:"700px"}} />
+              <img src="audio.png" alt="" className='overflow-hidden' style={{width:"700px"}} />
               <div className='d-flex ju px-5'>
-                <img src="/src/assets/dancer.png" alt="" className=''  style={{width:"85px"}} />
+                <img src="dancer.png" alt="" className=''  style={{width:"85px"}} />
                 <div className='px-3'>
                   <h5 className='mt-3' style={{color:"rgba(128, 100, 162, 1)"}}>Shubha Nagrajan</h5>
                   <p className='text-muted' style={{color:"rgba(0, 150, 200, 1)"}}>Classical Dancer</p>
