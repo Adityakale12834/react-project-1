@@ -1,0 +1,18 @@
+.btn-outline-purple {
+    color: purple;
+    border-color: rgba(128, 100, 162, 1);
+  }
+
+  .btn-outline-purple:hover {
+    color: white;
+    background-color: rgba(128, 100, 162, 1);
+  }
+  
+  .btn-purple {
+    color: white;
+    background-color: rgba(128, 100, 162, 1);
+  }
+  .btn-purple:hover {
+    color: rgba(128, 100, 162, 1);
+    border-color: rgba(128, 100, 162, 1);
+  }
