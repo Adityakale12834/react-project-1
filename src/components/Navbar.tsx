@@ -1,9 +1,7 @@
 import React, { useState } from 'react'
-import { Compass, Bookmark,Bell,ShoppingCart } from 'lucide-react';
-import StarsIcon from '@mui/icons-material/Stars';
+import { Bookmark,Bell,ShoppingCart } from 'lucide-react';
 import SearchIcon from '@mui/icons-material/Search';
 import {useMediaQuery} from 'react-responsive';
-import { dividerClasses } from '@mui/material';
 
 function Navbar() :React.ReactElement {
   const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })

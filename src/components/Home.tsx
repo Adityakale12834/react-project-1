@@ -1,5 +1,4 @@
 import React from 'react'
-import Login from './Register'
 import Register from './Register'
 import { useMediaQuery } from 'react-responsive'
 function Home(): React.ReactElement {
